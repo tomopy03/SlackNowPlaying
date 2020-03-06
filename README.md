@@ -1,0 +1,2 @@
+# SlackNowPlaying
+Spotifyで聞いてる曲をSlackのstatusに反映させるやつ
