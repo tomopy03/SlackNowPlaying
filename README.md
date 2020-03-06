@@ -30,5 +30,6 @@ Spotifyで聞いてる曲をSlackのstatusに反映させるやつ
   - 登録するのは次の二つ
   - SLACK_CLIENT_ID
   - SLACK_CLIENT_SECRET
+- Slackアプリを使用したいワークスペースに登録する
 - `[公開]-[ウェブアプリケーションとして公開]` でgasを更新する
   - `Project version` を `new` にしておくこと
